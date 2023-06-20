@@ -23,12 +23,14 @@ Meu nome é Scarllet tenho 23 anos, estudo Análise e Desenvolvimento de sistema
 <a href="https://www.linkedin.com/in/scarllet-valentim-050175183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/ScarlletValentim">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScarlletValentim-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ScarlletValentim-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ScarlletValentim&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScarlletValentim&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+  
           
           
           
