@@ -15,7 +15,13 @@ Meu nome é Scarllet tenho 23 anos, estudo Análise e Desenvolvimento de sistema
 <img  height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"/><img  height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank"/><img height="140em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank"/><img height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank"/>
 
+## Contatos:
 
+<div>
+
+<a href = "scarlletrvs34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/scarllet-valentim-050175183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <div>
 <a href="https://github.com/ScarlletValentim">
