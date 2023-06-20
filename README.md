@@ -19,8 +19,8 @@ Meu nome é Scarllet tenho 23 anos, estudo Análise e Desenvolvimento de sistema
 
 <div>
 <a href="https://github.com/ScarlletValentim">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sScarlletValentim-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sScarlletValentim-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScarlletValentim-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ScarlletValentim-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
