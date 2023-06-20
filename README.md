@@ -27,8 +27,8 @@ Meu nome é Scarllet tenho 23 anos, estudo Análise e Desenvolvimento de sistema
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ScarlletValentim&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScarlletValentim&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=scarlletrvs&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarlletrvs&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
   
           
