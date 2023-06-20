@@ -12,7 +12,7 @@ Meu nome é Scarllet tenho 23 anos, estudo Análise e Desenvolvimento de sistema
    
 ## Tenho conhecimento em       
  <img height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  target="_blank"/> <img height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  target="_blank"/> <img height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" />
-<img  height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"/><img  height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank"/><img 
+<img  height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"/><img  height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank"/><img height="140em"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank"/><img height="140em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank"/>
 
 
