@@ -3,7 +3,7 @@
 Meu nome é Scarllet tenho 24 anos, estudo Análise e Desenvolvimento de sistemas (Senac), atualmente tenho focado meus estudos na aréa do desenvolvimento front-end  com react e react-native, tenho conhecimento em Sql e sou monitora de banco de dados II na faculdade.
 
 ## Já tive contato com
- <img height="70em"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+ <img height="70em"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" target="_blank" />
           
 ## Estou aprimorando meus conhecimentos em
 
