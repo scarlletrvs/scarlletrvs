@@ -2,7 +2,7 @@
 
 Me chamo Scarllet, tenho 24 anos e estudo Análise e Desenvolvimento de Sistemas no Senac. Atualmente, tenho me dedicado ao universo do desenvolvimento Full Stack, buscando aprimorar minhas habilidades e conhecimentos em diversas tecnologias.
 
-##Sobre minha experiência:
+## Sobre minha experiência
 💽 Banco de Dados:
 Tenho conhecimento em SQL e fui monitora da disciplina de Banco de Dados II na faculdade durante o 3º período.
 
