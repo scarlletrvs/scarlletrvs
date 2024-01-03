@@ -6,7 +6,7 @@ Meu nome é Scarllet tenho 24 anos, estudo Análise e Desenvolvimento de sistema
 ## Estou aprimorando meus conhecimentos em
 
 
-<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/><img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank"/> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" /><img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" target="_blank"/>
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/><img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank"/> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" /><img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank"/>
 
 
    
